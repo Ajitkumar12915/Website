@@ -1,0 +1,7 @@
+print("hello to everyone in the world")
+print("krishan ")
+print("Radhe Radhe")
+print("12345")
+print("2.5")
+print("T or F")
+print("0 or 1")
